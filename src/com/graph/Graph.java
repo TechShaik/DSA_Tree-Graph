@@ -1,4 +1,4 @@
-package com.grapgh;
+package com.graph;
 import java.util.*;
 
 public class Graph {
